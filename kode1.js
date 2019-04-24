@@ -6,7 +6,7 @@ var loadToc, loadCategories, _toc = {
                 maxResults: 10,
                 numChars: 270,
                 thumbWidth: 140,
-                thumbHeight: 95,
+                thumbHeight: 125,
                 navText: "Tampilkan artikel selanjutnya &#9660;",
                 resetToc: "Kembali ke Awal",
                 noImage: "//2.bp.blogspot.com/-ex3V86fj4dQ/UrCQQa4cLsI/AAAAAAAAFdA/j2FCTmGOrog/s1100/no-thumbnail.png",
