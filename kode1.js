@@ -1,4 +1,3 @@
-<script type='text/javaScript'>
 document.write;
 var loadToc, loadCategories, _toc = {
     init: function() {
@@ -152,4 +151,3 @@ var loadToc, loadCategories, _toc = {
     }
 };
 _toc.init();
-</script>
