@@ -9,7 +9,7 @@ var loadToc, loadCategories, _toc = {
                 thumbHeight: 125,
                 navText: "Tampilkan artikel selanjutnya &#9660;",
                 resetToc: "Kembali ke Awal",
-                noImage: "//2.bp.blogspot.com/-ex3V86fj4dQ/UrCQQa4cLsI/AAAAAAAAFdA/j2FCTmGOrog/s1100/no-thumbnail.png",
+                noImage: "//3.bp.blogspot.com/-4YAbnSiDBbA/XMLoFfUcUgI/AAAAAAAAACg/zuCf3L3DtCYYuZ7RiYivRsu9JMgZ_ezZACLcBGAs/s1600/MP3.jpg",
                 loading: "<span>Memuat...</span>",
                 counting: "<div>Memuat artikel...</div>",
                 searching: "<span>Mencari...</span>"
